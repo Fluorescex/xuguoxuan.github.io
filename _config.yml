@@ -13,9 +13,9 @@ title                    : "Guoxuan Xu"
 title_separator          : "-"
 name                     : &name "Guoxuan Xu"
 description              : &description "Guoxuan Xu's personal academic homepage"
-url                      : https://xuguoxuan.github.io
+url                      : https://fluorescex.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuguoxuan/xuguoxuan.github.io"
+repository               : "Fluorescex/fluorescex.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
